@@ -20,4 +20,7 @@ Dr Semmelweis published his research in 1861. I found the scanned pages of the [
 
 ## 🖼️ Outputted Diagrams 
 
+### Deaths Vs. Births between 1841-1846
+![output-deaths-vs-births-between-1841-1846.png](./assets/output-deaths-vs-births-between-1841-1846.png)
+
 ## 💡 What I Learned 
