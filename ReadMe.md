@@ -27,4 +27,7 @@ Dr Semmelweis published his research in 1861. I found the scanned pages of the [
 ![output-split-by-clinics-deaths-vs-births-between-1841-1846](./assets/output-split-by-clinics-deaths-vs-births-between-1841-1846.png)
 ![output-split-by-clinics-deaths-vs-births-between-1841-1846_2](./assets/output-split-by-clinics-deaths-vs-births-between-1841-1846_2.png)
 
+### Before and After of Handwashing Order 
+![output-split-by-clinics-deaths-vs-births-between-1841-1846](./assets/output-before-after-handwas-mandatory.png)
+
 ## 💡 What I Learned 
