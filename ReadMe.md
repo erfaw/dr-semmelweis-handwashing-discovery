@@ -52,8 +52,19 @@ Dr Semmelweis published his research in 1861. I found the scanned pages of the [
     </td>
 </table>
 
-
-
 ---
 
 ## 💡 What I Learned 
+
+* Performing `exploratory data analysis` (EDA) using `Pandas`.
+* Cleaning, organizing, and preparing `real-world datasets for analysis`.
+* Creating static and interactive visualizations with `Matplotlib` and `Plotly`.
+* Understanding the `importance of data visualization` in communicating insights effectively.
+* Learning how `presentation` and `storytelling` can make analytical findings `more impactful` and `easier to understand`.
+* Using statistical data to support or `challenge hypotheses with evidence rather than intuition.`
+* Identifying trends and patterns through historical data analysis.
+* Comparing datasets from multiple sources to uncover meaningful differences and relationships.
+* Gaining a deeper appreciation for the `role of data in scientific discoveries and medical research`.
+* Understanding how data-driven evidence contributed to validating Dr. Semmelweis's handwashing recommendations.
+* Developing the ability to transform raw data into clear conclusions and actionable insights.
+* Practicing the process of communicating technical findings to a broader audience.
