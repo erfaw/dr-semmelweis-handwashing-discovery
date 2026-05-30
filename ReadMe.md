@@ -1,8 +1,27 @@
-<img src="https://i.imgur.com/gugIA5r.png" width=700>
 
 # Dr. Semmelweis Handwashing Discovery
 
+| [Overview](https://github.com/erfaw/dr-semmelweis-handwashing-discovery?tab=readme-ov-file#-overview) 
+| [The Data Source](https://github.com/erfaw/dr-semmelweis-handwashing-discovery?tab=readme-ov-file#the-data-source) 
+| [Outputted Diagrams](https://github.com/erfaw/dr-semmelweis-handwashing-discovery?tab=readme-ov-file#%EF%B8%8F-outputted-diagrams) 
+| [Final Fate of Dr. Semmelweis](https://github.com/erfaw/dr-semmelweis-handwashing-discovery?tab=readme-ov-file#the-final-fate-of-dr-semmelweis) 
+| [What I Learned](https://github.com/erfaw/dr-semmelweis-handwashing-discovery?tab=readme-ov-file#-what-i-learned) 
+|
+
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## 📝 Overview 
+
+<img src="https://i.imgur.com/gugIA5r.png" width=700>
 
 ### Introduction
 
