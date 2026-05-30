@@ -39,11 +39,19 @@ Dr Semmelweis published his research in 1861. I found the scanned pages of the [
 
 ## The Final Fate of Dr. Semmelweis
 
-Despite the remarkable success of his handwashing policy, Ignaz Semmelweis faced strong opposition from many influential members of the medical community. His ideas challenged established beliefs, and as a result, he lost his position at Vienna General Hospital. Over time, his recommendations were largely ignored, and mortality rates began to rise again.
+<table>
+    <td>
+        <p align="justify"> 
+            Despite the remarkable success of his handwashing policy, Ignaz Semmelweis faced strong opposition from many influential members of the medical community. His ideas challenged established beliefs, and as a result, he lost his position at Vienna General Hospital. Over time, his recommendations were largely ignored, and mortality rates began to rise again.
+            In his later years, Semmelweis became increasingly frustrated and isolated. Historians still debate the cause of his declining mental health, suggesting possibilities such as severe stress, dementia, or other illnesses. In 1865, at the age of 47, he was committed to a mental asylum. There, he reportedly suffered physical abuse and developed a severe wound that became infected.
+            Tragically, Semmelweis died from sepsis (blood poisoning) only weeks later—the very type of infection he had dedicated his career to preventing. His work was not fully recognized until decades after his death, when Louis Pasteur's germ theory and subsequent advances in microbiology provided the scientific foundation that validated his discoveries. Today, Semmelweis is remembered as a pioneer of antiseptic medicine whose contributions helped save countless lives. <b>RIP!</b>
+        </p>
+    </td>
+    <td width=15%>
+        <img src="./assets/dr-semmelweis-picture.jpg" alt="Dr. Semmelweis" >
+    </td>
+</table>
 
-In his later years, Semmelweis became increasingly frustrated and isolated. Historians still debate the cause of his declining mental health, suggesting possibilities such as severe stress, dementia, or other illnesses. In 1865, at the age of 47, he was committed to a mental asylum. There, he reportedly suffered physical abuse and developed a severe wound that became infected.
-
-Tragically, Semmelweis died from sepsis (blood poisoning) only weeks later—the very type of infection he had dedicated his career to preventing. His work was not fully recognized until decades after his death, when Louis Pasteur's germ theory and subsequent advances in microbiology provided the scientific foundation that validated his discoveries. Today, Semmelweis is remembered as a pioneer of antiseptic medicine whose contributions helped save countless lives.
 
 
 ---
